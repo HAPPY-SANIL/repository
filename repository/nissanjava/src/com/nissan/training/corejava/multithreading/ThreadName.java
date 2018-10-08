@@ -16,7 +16,7 @@ public static void main(String[] args) throws InterruptedException {
 	t2.start();
 	//sleep(1000);
 	t1.setName("nissan");
-	System.out.println("after changing initial name of t1:"+t1.getName());
+	System.out.println("after changing initial(first) name of t1:"+t1.getName());
 	
 }
 }
